@@ -1,7 +1,7 @@
 - 👋 Hi, Muhammad Iqran
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning AL/DL/ML
-- 💞️ I’m looking to collaborate on AL/DL/ML projects
+- 💞️ I’m looking to collaborate on AL/DL/ML projects <br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/iqrankhannwl)<br>
 📫 Reach me via: [Email](mailto:iqrannwl@gmail.com)<br>
 # 💻 Tech Stack:
